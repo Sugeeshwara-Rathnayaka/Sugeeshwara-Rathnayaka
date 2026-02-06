@@ -6,29 +6,28 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;UI%2FUX+Designer;Always+Learning+New+Tech"
-      alt="Typing SVG"
-    />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;DevOps+Learner;Building+Scalable+Web+Applications"
+  alt="Typing SVG"/>
   </a>
 </p>
 <h3 align="center">Software Engineer • MERN Stack • DevOps Learner</h3>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sugeeshwara-Rathnayaka&color=6948fa">
+<img src="https://komarev.com/ghpvc/?username=Sugeeshwara-Rathnayaka&color=294ed3">
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
 
-<img align="right" width="40%" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"/>
+<img align="right" width="380" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"/>
 
 ### 🚀 About Me
 
-- 🎓 Software Engineering Graduate (Plymouth University @ NSBM)
-- ⚡ Love building **end-to-end full stack apps**
-- 🌱 Learning **DevOps • Cloud • AI**
-- 💬 Ask me about **React, Node, MongoDB, UI/UX**
+- 🎓 Software Engineering Graduate *(Plymouth University @ NSBM)*
+- 💻 Full Stack MERN Developer
+- 🎯 Interests in **Scalable Systems, AI-Powered Solutions, Modern UI/UX Design, Clean Architecture** 
+- 🌱 Learning **Mobile Development, DevOps, Cloud Technologies, AI**
+- 🤝 Feel free to explore my repositories and projects. I’m open to collaborations, learning opportunities, and technical discussions.
 
 <br clear="right"/>
 
@@ -40,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,ts,js,java,python,tailwind,docker,git,github,vscode,figma&theme=dark&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,ts,js,tailwind,html,css,java,python,mysql,dart,flutter,c,cs,docker,git,github,vscode,visualstudio,postman,figma&theme=dark&perline=12"/>
   </a>
 </p>
 
@@ -50,13 +49,25 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=Sugeeshwara-Rathnayaka&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="right">
-<img width="60%" src="https://github-readme-stats-three-nu-32.vercel.app/api/top-langs/?username=Sugeeshwara-Rathnayaka&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="42%">
+      <img width="100%"
+        src="https://github-readme-stats-three-nu-32.vercel.app/api/top-langs/?username=Sugeeshwara-Rathnayaka&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" width="58%">
+      <img width="100%"
+        src="https://nirzak-streak-stats.vercel.app/?user=Sugeeshwara-Rathnayaka&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+<!-- <p align="center">
+<img src="https://github-readme-stats-three-nu-32.vercel.app/api?username=Sugeeshwara-Rathnayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p> -->
 
 ---
 
@@ -65,14 +76,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://sugee-portfolio.vercel.app">
+ <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourlink">
+<a href="https://linkedin.com/in/sugee-rath">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:sugeeshwara01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="./Sugeeshwara_Rathnayaka_CV.pdf">
+<img src="https://img.shields.io/badge/Resume-6948fa?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
 
@@ -81,4 +95,4 @@
 <p align="center">
 ⭐ From Sri Lanka with ❤️
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=294ed3&section=footer" width="100%">
