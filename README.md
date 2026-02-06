@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-![Header](./banner.png)
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋 I'm Sugeeshwara Rathnayake</h1>
 
@@ -19,7 +19,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="380" src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"/>
 
 ### 🚀 About Me
 
@@ -52,14 +52,14 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sugeeshwara-Rathnayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugeeshwara-Rathnayaka&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugeeshwara-Rathnayaka&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sugeeshwara-Rathnayaka&theme=tokyo-night&hide_border=true"/>
 
 ---
 
