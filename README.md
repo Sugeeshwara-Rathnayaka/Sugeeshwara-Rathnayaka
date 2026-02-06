@@ -53,7 +53,7 @@
   <tr>
     <td align="center" width="42%">
       <img width="100%"
-        src="https://github-readme-stats-three-nu-32.vercel.app/api/top-langs/?username=Sugeeshwara-Rathnayaka&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+        src="https://github-stats-sugee.vercel.app/api/top-langs/?username=Sugeeshwara-Rathnayaka&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
         alt="Top Languages"
       />
     </td>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 <!-- <p align="center">
-<img src="https://github-readme-stats-three-nu-32.vercel.app/api?username=Sugeeshwara-Rathnayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-sugee.vercel.app/api?username=Sugeeshwara-Rathnayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p> -->
 
 ---
